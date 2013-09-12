@@ -176,7 +176,7 @@
     <icon>item_money.png</icon>
     <name>item1</name>
     <desc>item1</desc>
-    <price>300</price>
+    <price>3000</price>
   </item>
   <!--Starting 3 times extra money-->
   <item>
@@ -184,7 +184,7 @@
     <icon>item_start_money.png</icon>
     <name>item300</name>
     <desc>item300</desc>
-    <price>100</price>
+    <price>1000</price>
     <locked>NO</locked>
     <data>
       <modifier>3</modifier>
