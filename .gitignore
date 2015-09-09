@@ -1,0 +1,6 @@
+*.htm
+*.suo
+*.userprefs
+bin/
+obj/
+packages/

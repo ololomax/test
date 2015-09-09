@@ -1,0 +1,19 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UniversalMediator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Windows81="using:Microsoft.AdMediator.Windows81"
+    x:Class="UniversalMediator.MainPage"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Windows81:AdMediatorControl x:Name="AdMediator_6E6F90"
+                                     HorizontalAlignment="Center"
+                                     Id="AdMediator-Id-47FF9738-A111-4436-92E5-FD695A194B64"
+                                     VerticalAlignment="Top" Height="90"/>
+
+    </Grid>
+</Page>
